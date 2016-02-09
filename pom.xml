@@ -29,6 +29,7 @@
 				<version>3.2.1</version>
 				<configuration>
 					<driver>com.mysql.jdbc.Driver</driver>
+					<outOfOrder>true</outOfOrder>
 				</configuration>
 			</plugin>
 		</plugins>
